@@ -1,0 +1,1 @@
+{"candidate":"candidate:1840965416 1 udp 2122260223 192.168.0.103 53385 typ host generation 0 ufrag xwSU network-id 1 network-cost 10","sdpMid":"0","sdpMLineIndex":0}
